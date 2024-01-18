@@ -21,7 +21,6 @@ Contributions are welcomed with open arms! Feel free to open issues or submit pu
 1. **Clone the Repository:**
    ```bash
    https://github.com/HiruAmarajeewa/Line-Following-Robot.git
-   cd line-follower-robot
    ```
 
 2. **Explore the Documentation:**
